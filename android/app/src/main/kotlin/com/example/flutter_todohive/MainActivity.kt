@@ -1,0 +1,6 @@
+package com.example.flutter_todohive
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
